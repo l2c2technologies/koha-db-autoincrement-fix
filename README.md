@@ -179,7 +179,11 @@ as Koha itself). See the `LICENSE` file.
 
 ## Author
 
-L2C2 Technologies. <https://l2c2.co.in>
+Indranil Das Gupta
+
+## Copyright
+
+L2C2 Technologies (c) 2026. <https://l2c2.co.in>
 
 ## See also
 
